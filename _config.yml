@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/Type-on-Strap"
-url: "https://aristoeu.github.io"
+url: "https://sylhare.github.io"
 title: Type on Strap # site's title
 description: "A website with blog posts and pages" # used by search engines
 
@@ -22,7 +22,7 @@ theme_settings:
   header_text: Change header text in <code>_config.yml</code>
   header_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/Aristoeu/Aristoeu.github.io">Type on Strap</a>
+    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
@@ -33,7 +33,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "aristoeu"
+  github: "sylhare"
   google_plus:
   instagram:
   keybase:
@@ -92,10 +92,14 @@ paginate_path: "blog/page:num"
 
 # AUTHORS
 authors:
-  aristoeu:
-    name: aristoeu
+  mhagnumdw: # author-id
+    name: MhagnumDw
+    avatar: "assets/img/avatars/mhagnumdw_avatar.jpg"
+    url: 
+  sylhare:
+    name: Sylhare
     avatar: "assets/img/avatars/sylhare_avatar.png"
-    url: "https://github.com/Aristoeu"
+    url: "https://github.com/sylhare"
 
 # PORTFOLIO
 collections:
